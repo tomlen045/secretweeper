@@ -1,0 +1,9 @@
+# 内部交付物，不入仓
+公众号排版版.html
+report.md
+screenshots草稿/
+cards/
+*cover*.py
+article-assets/
+.env
+*.log
